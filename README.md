@@ -1,4 +1,4 @@
-# Amarisse PHP
+=# Amarisse PHP
 Mini-framework in plain PHP
 
 # Basic Functions
